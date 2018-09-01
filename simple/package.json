@@ -1,0 +1,32 @@
+{
+  "name": "brisjs-web-scraping-talk-simple",
+  "version": "1.0.0",
+  "description": "Code to accompany my talk on web scraping for the Brisbane JavaScript meeting in September 2018",
+  "main": "-",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleydavis/brisjs-web-scraping-talk.git"
+  },
+  "keywords": [
+    "scraping",
+    "web",
+    "scraping",
+    "JavaScript",
+    "Node.js",
+    "Node"
+  ],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/brisjs-web-scraping-talk/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/brisjs-web-scraping-talk#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
