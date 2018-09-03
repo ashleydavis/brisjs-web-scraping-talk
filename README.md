@@ -7,6 +7,12 @@ Why not do your data wrangling, analysis and visualization entirely in JavaScrip
 
 Do your prototyping and exploratory data analysis in JavaScript with [Data-Forge Notebook](http://www.data-forge-notebook.com/).
 
+## Slides / Video
+
+The slides for the talk are available here: [https://www.slideshare.net/AshleyDavis33/web-scraping-112846350](https://www.slideshare.net/AshleyDavis33/web-scraping-112846350)
+
+A video will be posted here as soon it is made available by BrisJS.
+
 ## Contents
 
 The *simple* sub-directory contains a simple example of extracting data from a static web page (the HTML that is served contains the target data). The simple example uses npm modules [request-promise](https://npmjs.com/package/request-promise) and [cheerio](https://npmjs.com/package/cheerio).
