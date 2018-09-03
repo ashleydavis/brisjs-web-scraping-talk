@@ -41,13 +41,13 @@ or:
 If you try to use the advanced technique in production, here's some production issues you'll want to investigate:
 
 - Performance
--- Cache and reuse the Nightmare object
--- Disable image download	
--- Batch your requests
+    - Cache and reuse the Nightmare object
+    - Disable image download	
+    - Batch your requests
 
 - Debugging
--- Show the Electron window
--- Enable devtools in the Electron window
--- Handle errors from Nightmare
--- Display logging from target web page running in the headless browser
+    - Show the Electron window
+    - Enable devtools in the Electron window
+    - Handle errors from Nightmare
+    - Display logging from target web page running in the headless browser
 
