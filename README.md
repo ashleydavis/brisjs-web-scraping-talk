@@ -2,6 +2,11 @@
 
 Code to accompany my talk on web scraping for the Brisbane JavaScript meeting in September 2018
 
+Why not do your data wrangling, analysis and visualization entirely in JavaScript? To support my effort please buy or help promote my book 
+[Data Wrangling with JavaScript](http://bit.ly/2t2cJu2).
+
+Do your prototyping and exploratory data analysis in JavaScript with [Data-Forge Notebook](http://www.data-forge-notebook.com/).
+
 ## Contents
 
 The *simple* sub-directory contains a simple example of extracting data from a static web page (the HTML that is served contains the target data). The simple example uses npm modules [request-promise](https://npmjs.com/package/request-promise) and [cheerio](https://npmjs.com/package/cheerio).
