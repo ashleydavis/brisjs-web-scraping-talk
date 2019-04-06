@@ -35,7 +35,6 @@ or:
 
     node index.js
 
-
 ## Production issues
 
 If you try to use the advanced technique in production, here's some production issues you'll want to investigate:
