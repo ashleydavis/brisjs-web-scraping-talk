@@ -49,4 +49,3 @@ If you try to use the advanced technique in production, here's some production i
     - Enable devtools in the Electron window
     - Handle errors from Nightmare
     - Display logging from target web page running in the headless browser
-
