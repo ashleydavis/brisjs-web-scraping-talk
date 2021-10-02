@@ -7,6 +7,8 @@ Why not do your data wrangling, analysis and visualization entirely in JavaScrip
 
 Do your prototyping and exploratory data analysis in JavaScript with [Data-Forge Notebook](http://www.data-forge-notebook.com/).
 
+[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
 ## Slides / Video
 
 The slides for the talk are available here: [https://www.slideshare.net/AshleyDavis33/web-scraping-112846350](https://www.slideshare.net/AshleyDavis33/web-scraping-112846350)
